@@ -4,7 +4,13 @@ This repository contains structured Python-based notebooks and examples on **Mas
 
 📺 YouTube: [Chemical Engineering A](https://www.youtube.com/@chemicalengineeringA)
 
----
+## 💨 GATE Chemical Engineering Syllabus:  Mass Transfer
+Fick’s laws, molecular diffusion in fluids, mass transfer coefficients, film, penetration and surface 
+renewal theories; momentum, heat and mass transfer analogies; stage-wise and continuous 
+contacting and stage efficiencies; HTU & NTU concepts; design and operation of equipment for 
+distillation, absorption, leaching, liquid-liquid extraction, drying, humidification, dehumidification and 
+adsorption, membrane separations(micro-filtration, ultra-filtration, nano-filtration and reverse 
+osmosis).
 
 ## 📘 Course Topics
 
